@@ -3,7 +3,11 @@
               A CS50 Final Project by Thomson Brand
 ============================================================
 
-Video demo: 
+HOW TO PLAY:
+1. Download LOVE: https://love2d.org/
+2. download this entire folder. (the record png is not necessary, but everything else is.)
+3. Drag the folder onto the LOVE application (or a shortcut to it). The game will immediately begin to run.
+4. Have fun!
 
 This is a simple 2D sidescrolling game made from the bones of the Mario assignment.
 The objective is simply to slay as many goblins as you can!
