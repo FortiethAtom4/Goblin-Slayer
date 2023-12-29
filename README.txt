@@ -5,7 +5,7 @@
 
 HOW TO PLAY:
 1. Download LOVE: https://love2d.org/
-2. download this entire repo. (the record png is not necessary, but everything else is.). Make sure everything is in one folder.
+2. download this entire repo. (the .png file outside of spritesheets is not necessary, but everything else is.). Make sure everything is in one folder.
 3. Drag the folder onto the LOVE application (or a shortcut to it). The game will immediately begin to run.
 4. Have fun!
 
@@ -46,10 +46,17 @@ main.lua
 Calls the map classes. Essentially just presses the 'play' button.
 
 Animation.lua
-An open-source class used on the Mario project which includes functions to better modularize animation. 
+An open-source class used on the Mario project which includes functions to better modularize animation.
+
+Util.lua, class.lua, push.lua
+Utility classes to assist in structuring the project.
 
 3 .png spritesheet files, which contain the images for the background and animations.
 1 image of the game-over screen for my current record. Try to beat it!
 
-
-
+CREDITS: 
+Music: Dino Run DX OST by Pixeljam (Digital album here: https://pixeljam.bandcamp.com/album/dino-run-dx-ost)
+class.lua provided by Matthias Richter (https://github.com/bartbes/Class-Commons)
+push.lua provided by Ulysse Ramage
+Enemy spritesheet created by Stephen "Redshrike" Challener (https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated)
+Player and map spritesheets are open assets from opengameart.org
