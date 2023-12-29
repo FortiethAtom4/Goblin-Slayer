@@ -5,7 +5,7 @@
 
 HOW TO PLAY:
 1. Download LOVE: https://love2d.org/
-2. download this entire repo. (the record png is not necessary, but everything else is.)
+2. download this entire repo. (the record png is not necessary, but everything else is.). Make sure everything is in one folder.
 3. Drag the folder onto the LOVE application (or a shortcut to it). The game will immediately begin to run.
 4. Have fun!
 
